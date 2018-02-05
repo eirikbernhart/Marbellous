@@ -1,0 +1,6 @@
+Hentet fra Asset Store:
+
+Standard Assets: SampleScenes/Models/Ring.fbx, https://www.assetstore.unity3d.com/en/#!/content/32351
+
+Brukt Ring.fbx i Assets/UI/IngameUI og /StartUI
+
